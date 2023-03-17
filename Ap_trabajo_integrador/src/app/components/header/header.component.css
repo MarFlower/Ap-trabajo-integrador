@@ -1,5 +1,9 @@
+body{
+    margin: 0px;}
+/* }no se donde ponerlo pero es esto lo que hay que cambiar */
+
 div{
-    background-color: cadetblue;
+    background-color: #b1a7e8;
 }
 #logoAp{
     width: 150px;
